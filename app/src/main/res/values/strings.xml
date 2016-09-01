@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Button</string>
+    <string name="this_is_custom_button">This is custom button</string>
+</resources>
